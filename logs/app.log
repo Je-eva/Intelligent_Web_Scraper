@@ -1,0 +1,27 @@
+2025-01-13 22:01:46,273 - INFO - User did not find the answer helpful.
+2025-01-13 22:46:03,450 - ERROR - API keys are missing. Please check your environment variables.
+2025-01-13 22:47:37,748 - ERROR - API keys are missing. Please check your environment variables.
+2025-01-13 22:49:11,582 - ERROR - API keys are missing. Please check your environment variables.
+2025-01-13 22:52:09,527 - ERROR - API keys are missing. Please check your environment variables.
+2025-01-13 22:54:18,415 - ERROR - API keys are missing. Please check your environment variables.
+2025-01-13 22:54:23,673 - ERROR - API keys are missing. Please check your environment variables.
+2025-01-13 22:55:30,649 - ERROR - API keys are missing. Please check your environment variables.
+2025-01-13 22:57:50,693 - WARNING - Invalid feedback response. Please reply with 'yes' or 'no'.
+2025-01-13 22:58:20,742 - INFO - User did not find the answer helpful.
+2025-01-13 22:59:41,780 - INFO - User did not find the answer helpful.
+2025-01-15 09:39:57,777 - INFO - User found the answer helpful.
+2025-01-21 11:34:19,125 - INFO - User did not find the answer helpful.
+2025-01-21 12:35:01,491 - INFO - User did not find the answer helpful.
+2025-01-21 12:36:03,380 - INFO - User found the answer helpful.
+2025-01-21 12:36:37,972 - INFO - User did not find the answer helpful.
+2025-01-21 12:37:35,219 - INFO - User did not find the answer helpful.
+2025-01-21 12:41:05,091 - INFO - User did not find the answer helpful.
+2025-01-21 12:41:20,278 - ERROR - Error saving chat history: 'charmap' codec can't encode character '\u20b9' in position 351: character maps to <undefined>
+2025-01-21 12:41:28,052 - INFO - User did not find the answer helpful.
+2025-01-21 12:41:44,803 - INFO - User found the answer helpful.
+2025-01-21 12:42:30,963 - INFO - User did not find the answer helpful.
+2025-01-21 12:43:01,411 - INFO - User found the answer helpful.
+2025-01-21 15:13:11,584 - ERROR - Invalid search type. Please enter either 'general' or 'news'.
+2025-01-21 15:14:24,736 - ERROR - Invalid search type. Please enter either 'general' or 'news'.
+2025-01-21 15:14:44,323 - ERROR - Error during search: 400 Client Error: Bad Request for url: https://api.tavily.com/search
+2025-01-21 15:27:40,432 - INFO - User did not find the answer helpful.
