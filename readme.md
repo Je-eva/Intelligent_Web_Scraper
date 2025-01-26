@@ -17,3 +17,9 @@ Make sure to have the following environment variables set in the `.env` file:
 Install the required dependencies using `pip`:
 
 pip install -r requirements.txt
+
+
+### Working
+I have uploaded a video of how my application works
+https://drive.google.com/file/d/1fBBSakq_AmWV0hktpALftAnlwHkT8Hxn/view?usp=sharing
+
